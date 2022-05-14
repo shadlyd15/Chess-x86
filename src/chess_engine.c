@@ -29,12 +29,12 @@
 #define J(A) K(ToSqr + A, Board[ToSqr]) - K(FromSqr + A, Piece) - K(CaptSqr + A, Victim)
 
 // #define HASHSIZE (1 * 1024)
-#define HASHSIZE (1024 * 1024)
+#define HASHSIZE (10 * 1024 * 1024)
 // #define STRENGTH 1000
 // #define MOVE 10
 
-// #define HASHSIZE 7340040
-#define STRENGTH 1000
+#define HASHSIZE 7340040
+#define STRENGTH 100000
 // #define MOVE 50
 
 struct HashTab_t 
