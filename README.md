@@ -19,7 +19,7 @@
 ![Chess-x86](https://github.com/shadlyd15/Chess-x86/blob/main/screenshots/2.png?raw=true "Chess-x86")
 
 # Demo Video on QEMU
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I1wtI4ju2Aw/0.jpg)](https://www.youtube.com/watch?v=I1wtI4ju2Aw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I1wtI4ju2Aw/2.jpg)](https://www.youtube.com/watch?v=I1wtI4ju2Aw)
 
 
 Watch on Youtube :  [https://www.youtube.com/watch?v=I1wtI4ju2Aw](https://www.youtube.com/watch?v=I1wtI4ju2Aw)
